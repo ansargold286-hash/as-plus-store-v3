@@ -1,0 +1,6 @@
+{
+  "name": "AS Plus Store",
+  "description": "Play Store style app download portal for AS Plus Limited",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
